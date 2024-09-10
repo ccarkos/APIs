@@ -1,0 +1,36 @@
+.titulo {
+    font-family: "Teko", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 40px;
+    font-style: normal;
+}
+
+.hr {
+    width: 220px;
+    margin-top: -15px;
+    border-color: black;
+}
+
+.fieldtrip {
+    width: 130px;
+    font-family: "Teko", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 20px;
+    font-style: normal;
+    border-radius: 10px;
+    opacity: 0.7;
+    background-color: white;
+}
+
+.botao {
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    border-color: brown;
+}
+
+body {
+    background-image: url(img/loc.png);
+    background-repeat: no-repeat;
+    background-size: 1920px 1080px;
+}
